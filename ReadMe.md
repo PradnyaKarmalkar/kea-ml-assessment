@@ -8,6 +8,10 @@ The system matches user inputs (leads, prompts, queries) based on **meaning**, n
 
 ---
 
+
+**Link Loom Video**
+https://www.loom.com/share/369c2a177c404b89bd828ce663c6c46d
+
 ## 🎯 Problem Statement
 
 Traditional systems rely on keyword matching, which fails to capture intent.
@@ -175,6 +179,8 @@ http://127.0.0.1:8000/docs
 GitHub: https://github.com/PradnyaKarmalkar
 
 ---
+
+
 
 ## ⭐ Final Note
 
